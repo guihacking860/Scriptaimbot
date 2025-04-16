@@ -1,8 +1,3 @@
---[[
-Created by Scriptkia : https://github.com/Scriptkia
-Redistributed by WeAreDevs: https://wearedevs.net/scripts
-]]
-
 local UserInputService = game:GetService("UserInputService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")
